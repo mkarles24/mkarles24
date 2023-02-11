@@ -4,7 +4,7 @@
 
 ### :rocket: Sobre mí:
 
-Técnico Universitario, y cuasi Licenciado, en Riesgos y Seguros. En paralelo a mi crecimiento profesional en el sector financiero, incursioné en la programación y ahora estoy 100% enamorado del desarrollo web. Trabajo en el sector asegurador, pero quiero obtener mi primera experiencia laboral como programador FrontEnd.
+Mi background universitario y profesional es fundamentalmente en el área de seguros. Sin embargo, desde hace dos años incursioné en la programación y ahora estoy 100% enamorado del desarrollo web. Soy un Frontend Angular Developer, con mucha vocación a hacer soluciones excelentes.
 
 <img align="right" alt="img" src="https://i.pinimg.com/originals/e6/88/f5/e688f54207c41e3fa10c9f1897ae9ee1.gif" width="270" height="310px"/>
 
